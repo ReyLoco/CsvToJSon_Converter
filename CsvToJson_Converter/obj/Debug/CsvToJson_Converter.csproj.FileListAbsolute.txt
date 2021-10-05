@@ -1,0 +1,10 @@
+C:\Users\LSMS\source\repos\CsvToJson_Converter\CsvToJson_Converter\bin\Debug\CsvToJson_Converter.exe.config
+C:\Users\LSMS\source\repos\CsvToJson_Converter\CsvToJson_Converter\bin\Debug\CsvToJson_Converter.exe
+C:\Users\LSMS\source\repos\CsvToJson_Converter\CsvToJson_Converter\bin\Debug\CsvToJson_Converter.pdb
+C:\Users\LSMS\source\repos\CsvToJson_Converter\CsvToJson_Converter\obj\Debug\CsvToJson_Converter.csprojAssemblyReference.cache
+C:\Users\LSMS\source\repos\CsvToJson_Converter\CsvToJson_Converter\obj\Debug\CsvToJson_Converter.Form1.resources
+C:\Users\LSMS\source\repos\CsvToJson_Converter\CsvToJson_Converter\obj\Debug\CsvToJson_Converter.Properties.Resources.resources
+C:\Users\LSMS\source\repos\CsvToJson_Converter\CsvToJson_Converter\obj\Debug\CsvToJson_Converter.csproj.GenerateResource.cache
+C:\Users\LSMS\source\repos\CsvToJson_Converter\CsvToJson_Converter\obj\Debug\CsvToJson_Converter.csproj.CoreCompileInputs.cache
+C:\Users\LSMS\source\repos\CsvToJson_Converter\CsvToJson_Converter\obj\Debug\CsvToJson_Converter.exe
+C:\Users\LSMS\source\repos\CsvToJson_Converter\CsvToJson_Converter\obj\Debug\CsvToJson_Converter.pdb
